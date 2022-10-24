@@ -78,7 +78,7 @@ npx eslint .
 [Check out the React documentation for more information]()
 ## Author
 ### 👤 Author 1
-👤 **Is-haq Adnan Olamilekan**
+👤 **Is-haq dnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
 - Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
