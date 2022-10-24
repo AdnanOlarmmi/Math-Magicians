@@ -1,8 +1,10 @@
-# Leaderboard
+# Math Magician
+
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-- In this activity you I continued working on the Leaderboard list app, sending and receiving data from/to the Leaderboard API.
+-
 
 > Learning objectives
 
