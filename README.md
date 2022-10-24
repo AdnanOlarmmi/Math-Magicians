@@ -1,17 +1,13 @@
 # Math Magician
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
--
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
 
 > Learning objectives
 
 - Set up a React app.
 - Use React documentation.
-
-- Here is the preview
 
 ## Built With
 
@@ -77,9 +73,9 @@ Track JavaScript linter errors run:
 npx eslint .
 ```
 
-[Check out the React documentation for more information]()
+[Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+
 ## Author
-### 👤 Author 1
 👤 **Is-haq dnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
