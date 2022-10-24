@@ -1,4 +1,4 @@
-# Math Magician
+# Math Magicians
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
