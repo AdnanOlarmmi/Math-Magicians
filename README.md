@@ -104,4 +104,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License
 
-This project is [MIT](License) licensed
+This project is [MIT](./License) licensed
