@@ -88,7 +88,7 @@ npx eslint .
 
 ## Author
 
-👤 **Is-haq dnan Olamilekan**
+👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
 - Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
