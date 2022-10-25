@@ -5,6 +5,21 @@ import calculate from '../logic/calculate';
 // eslint-disable-next-line
 class Calculator extends Component {
 
+  constructor(props) {
+    super(props);
+    this.state = {
+      total: null,
+      next: null,
+      operation: null,
+    };
+  }
+
+  calculateValues(e) {
+    this.calculatorCells = e.target.innerHTML;
+    const calcButtons = this.calculatorCells;
+    const values = this.state;
+    this.setState(calculate(values, calcButtons));
+  }
 
   render() {
     const { total, next, operation } = this.state;
