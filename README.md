@@ -11,10 +11,13 @@
 - Use React components.
 - Use React props.
 - Use React state.
+- Handle events in a React app.
+- Use React life cycle methods.
+- Understand the mechanism of lifting state up.
 
 - Here is the preview
 <p>
- <img src="./preview.png" />
+ <img src="./preview.gif" />
 </p>
 
 ## Built With
@@ -49,7 +52,7 @@ To get a local copy of this project up and running on your local machine follow 
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Math-Magician.git
+git clone https://github.com/AdnanOlarmmi/Math-Magicians.git
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -85,7 +88,7 @@ npx eslint .
 
 ## Author
 
-👤 **Is-haq dnan Olamilekan**
+👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
 - Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
