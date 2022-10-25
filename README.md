@@ -1,10 +1,8 @@
-# Math Magician
-
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
+# Math Magicians
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
--
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
 
 > Learning objectives
 
@@ -13,10 +11,13 @@
 - Use React components.
 - Use React props.
 - Use React state.
+- Handle events in a React app.
+- Use React life cycle methods.
+- Understand the mechanism of lifting state up.
 
 - Here is the preview
 <p>
- <img src="./preview.png" />
+ <img src="./preview.gif" />
 </p>
 
 ## Built With
@@ -51,7 +52,7 @@ To get a local copy of this project up and running on your local machine follow 
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Math-Magician.git
+git clone https://github.com/AdnanOlarmmi/Math-Magicians.git
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -84,6 +85,7 @@ npx eslint .
 ```
 
 [Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+
 ## Author
 
 👤 **Is-haq dnan Olamilekan**
@@ -114,4 +116,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License
 
-This project is [MIT](LICENSE) licensed
+This project is [MIT](./LICENSE) licensed
