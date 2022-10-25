@@ -8,6 +8,14 @@
 
 - Set up a React app.
 - Use React documentation.
+- Use React components.
+- Use React props.
+- Use React state.
+
+- Here is the preview
+<p>
+ <img src="./preview.png" />
+</p>
 
 ## Built With
 
@@ -76,6 +84,7 @@ npx eslint .
 [Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
 ## Author
+
 👤 **Is-haq dnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
