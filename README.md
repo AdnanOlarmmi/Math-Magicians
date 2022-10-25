@@ -10,8 +10,14 @@
 
 - Set up a React app.
 - Use React documentation.
+- Use React components.
+- Use React props.
+- Use React state.
 
 - Here is the preview
+<p>
+ <img src="./preview.png" />
+</p>
 
 ## Built With
 
@@ -77,9 +83,9 @@ Track JavaScript linter errors run:
 npx eslint .
 ```
 
-[Check out the React documentation for more information]()
+[Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 ## Author
-### 👤 Author 1
+
 👤 **Is-haq dnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
@@ -93,7 +99,7 @@ npx eslint .
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Math-Magician/issues).
+Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Math-Magicians/issues).
 
 ## Show your support
 
@@ -108,4 +114,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License
 
-This project is [MIT](MIT.md) licensed
+This project is [MIT](LICENSE) licensed
