@@ -14,6 +14,7 @@
 - Handle events in a React app.
 - Use React life cycle methods.
 - Understand the mechanism of lifting state up.
+- Use React hooks.
 
 - Here is the preview
 <p>
