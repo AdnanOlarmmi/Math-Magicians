@@ -91,7 +91,7 @@ npx eslint .
 👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIs71755510](https://twitter.com/AdnanIs71755510)
+- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
 - LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
 
 ## Credits
