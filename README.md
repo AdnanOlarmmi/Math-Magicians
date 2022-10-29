@@ -58,7 +58,7 @@ git clone https://github.com/AdnanOlarmmi/Math-Magicians.git
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd <folder>``**
+**``you@your-Pc-name:~$ cd Math-Magicians``**
 
 ### Usage
 
