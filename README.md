@@ -58,7 +58,8 @@ git clone https://github.com/AdnanOlarmmi/Math-Magicians.git
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd <Math-Magician>``**
+
+**``you@your-Pc-name:~$ cd Math-Magicians``**
 
 ### Usage
 
@@ -85,6 +86,10 @@ npx stylelint "**/*.{css,scss}"
 Track JavaScript linter errors run:
 ```
 npx eslint .
+```
+Start App on your default browser:
+```
+npm start
 ```
 
 [Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
