@@ -18,7 +18,7 @@ header {
 
 main {
   width: 70vw;
-  max-width: 700px;
+  max-width: 500px;
   height: max-content;
   max-height: 90vh;
   position: fixed;
@@ -34,7 +34,7 @@ main {
 .calculator {
   display: flex;
   flex-direction: column;
-  max-width: 500px;
+  gap: 1rem;
 }
 
 ul {
