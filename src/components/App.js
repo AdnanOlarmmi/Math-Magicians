@@ -8,22 +8,19 @@ import Header from './Header';
 import Home from './Home';
 import Calculator from './Calculator';
 import Quote from './Quote';
-// eslint-disable-next-line
-const App = () => {
 
-  return (
-    <div>
+const App = () => (
+  <div>
+    <Router>
       <Header />
-      <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/calculator" element={<Calculator />} />
-          <Route path="/quote" element={<Quote />} />
-        </Routes>
-      </Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/calculator" element={<Calculator />} />
+        <Route path="/quote" element={<Quote />} />
+      </Routes>
+    </Router>
 
-    </div>
-  );
-};
+  </div>
+);
 
 export default App;
