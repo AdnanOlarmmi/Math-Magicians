@@ -14,11 +14,15 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calculator">
-      <div className="output">
-        { next || operation || total || 0 }
-      </div>
+    <main className="calculator">
+      <h4>Let's do some Math</h4>
+      
       <table className="input" cellSpacing={0}>
+      <tr>
+      <td className="output" colSpan={4}>
+        { next || operation || total || 0 }
+      </td>
+      </tr>
         <tr>
           <td onClick={calculateValues}>AC</td>
           <td onClick={calculateValues}>+/-</td>
@@ -49,7 +53,7 @@ const Calculator = () => {
           <td onClick={calculateValues}>=</td>
         </tr>
       </table>
-    </div>
+    </main>
   );
 };
 
