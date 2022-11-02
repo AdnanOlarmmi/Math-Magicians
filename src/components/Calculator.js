@@ -1,4 +1,4 @@
-/*eslint-disable*/
+/* eslint-disable */
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -14,14 +14,11 @@ const Calculator = () => {
   };
 
   return (
-    <main className="calculator">
-      <h4>Let's do some Math</h4>
+    <div className="calculator">
+      <div className="output">
+        { next || operation || total || 0 }
+      </div>
       <table className="input" cellSpacing={0}>
-        <tr>
-          <td className="output" colSpan={4}>
-            { next || operation || total || 0 }
-          </td>
-        </tr>
         <tr>
           <td onClick={calculateValues}>AC</td>
           <td onClick={calculateValues}>+/-</td>
@@ -52,7 +49,7 @@ const Calculator = () => {
           <td onClick={calculateValues}>=</td>
         </tr>
       </table>
-    </main>
+    </div>
   );
 };
 
