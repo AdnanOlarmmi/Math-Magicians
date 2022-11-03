@@ -35,6 +35,11 @@
 - ESlint
 - Node Packet Manager
 
+
+## Live Demo
+
+[Here](https://admirable-tartufo-2244f4.netlify.app/) is the live demo.
+
 ## Getting Started
 
 To get a local copy of this project up and running on your local machine follow the steps below.
