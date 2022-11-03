@@ -99,6 +99,12 @@ npm start
 
 [Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
+### Deployment
+
+- I used Netlify to deploy my website
+- For more information about publishing sources, see "[Netlify documentation](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)"
+
+
 ## Author 1
 
 👤 **Is-haq Adnan Olamilekan**
