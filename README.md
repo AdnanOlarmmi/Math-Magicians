@@ -94,13 +94,21 @@ npm start
 
 [Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
 
-## Author
+## Author 1
 
 👤 **Is-haq Adnan Olamilekan**
 
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
 - Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
 - LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
+
+## Author 2
+
+👤 **Recillah Neema Khamala**
+
+- GitHub: [@rn486](https://github.com/Rn486)
+- Twitter: [@recillahk](https://twitter.com/recillahk)
+- LinkedIn: [Recillah Khamala](https://www.linkedin.com/in/recillah-khamala-071151b7/)
 
 ## Credits
 
