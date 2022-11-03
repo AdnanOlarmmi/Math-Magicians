@@ -76,6 +76,7 @@ npm install
 - To get it running on your default browser and local host, run:
 ```
 npm start
+```
 
 ### Run Tests
 To track linter errors locally follow these steps:  
