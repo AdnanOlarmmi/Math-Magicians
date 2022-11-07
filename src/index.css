@@ -89,5 +89,6 @@ td:last-child {
   .calculator {
     display: flex;
     flex-direction: row;
+    list-style-type: none;
   }
 }
