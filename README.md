@@ -1,116 +1,137 @@
-# Math Magicians
+<a name="readme-top"></a>
+<div align="center">
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
+  <h3><b>Microverse README Template</b></h3>
 
-> Learning objectives
+</div>
 
-- Set up a React app.
-- Use React documentation.
-- Use React components.
-- Use React props.
-- Use React state.
-- Handle events in a React app.
-- Use React life cycle methods.
-- Understand the mechanism of lifting state up.
-- Use React hooks.
+# 📗 Table of Contents
 
-- Here is the preview
-<p>
- <img src="./preview.gif" />
-</p>
-
-## Built With
-
-- HTML
-- CSS
-- JAVASCRIPT
-- REACT
-
-## Additional Tools
-
-- WebHint
-- Stylelint
-- ESlint
-- Node Packet Manager
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- - [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
 
-## Live Demo
+# 📖 Math-Magicians <a name="about-project"></a>
 
-[Here](https://admirable-tartufo-2244f4.netlify.app/) is the live demo.
+**Math-Magicians** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:  make simple calculations and read a random math-related quote.
 
-## Getting Started
+> Learning objectives.
 
-To get a local copy of this project up and running on your local machine follow the steps below.
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://redux.js.org/">Redux and Redux Toolkit</a></li>
+    <li><a href="https://fonts.google.com/icons">Google Icons</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- *Single Page App.**
+- **Basic Calculations**
+- **Pixel Perfect Design**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Experince a live demo](https://adnanclimateapp.netlify.app/).
+
+> |     | Mobile version                      | Desktop version                      |     |
+> | --- | ----------------------------------- | ------------------------------------ | --- |
+> |     | ![Screenshot1](./mobile.gif) | ![Screenshot2](./desktop.gif) |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- Basic html, css and medium Javascript know how.
-- Git installation
-- A text editor 
-- A terminal
-- A web browser to view output e.g Google Chrome
-- An IDE e.g Visual studio code
+In order to run this project you need:
+
+- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
+- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
+- `node` should be installed in your local machine, [node website](https://nodejs.org/en/download/).
+- Install the `npm` package manager use this [to install both node and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+- A terminal.
 
 ### Setup
 
-- Clone this repository or download the Zip folder:
+Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/AdnanOlarmmi/Math-Magicians.git
+  git clone https://github.com/AdnanOlarmmi/Math-Magicains.git
 ```
 
 - Navigate to the location of the folder in your machine:
 
+you@your-Pc-name:~$ cd Math-Magicians
 
-**``you@your-Pc-name:~$ cd Math-Magicians``**
+### Install
+
+To install all dependencies, run:
+
+```
+  npm install
+```
 
 ### Usage
 
-- After Cloning this repo to your local machine
-- Download all the dependencies run:
+After Cloning this repo to your local machine.
+To get it running on your default browser and local host, run:
+
 ```
-npm install
-```
-- To get it running on your default browser and local host, run:
-```
-npm start
+  npm start
 ```
 
-### Run Tests
-To track linter errors locally follow these steps:  
+### Run tests
 
-Track HTML linter errors run:
-```
-npx hint .
-```
-Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
-Track JavaScript linter errors run:
-```
-npx eslint .
-```
+To run tests, run:
 
-[Check out the React documentation for more information](https://reactjs.org/docs/create-a-new-react-app.html#create-react-app)
+```
+  npm test
+```
 
 ### Deployment
 
-- I used Netlify to deploy my website
-- For more information about publishing sources, see "[Netlify documentation](https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/)"
+You can deploy this project using, Netlify:
 
+- I used Netlify to delpoy the project.
+- For more information, check [Netlify](https://www.netlify.com/) website.
 
-## Author 1
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 **Is-haq Adnan Olamilekan**
+## 👤 Authors <a name="authors"></a>
 
+👤 **Is-haq, Adnan Olamilekan**
 - GitHub: [@AdnanOlarmmi](https://github.com/adnanolarmmi)
-- Twitter: [@AdnanIshaqOla](https://twitter.com/AdnanIshaqOla)
-- LinkedIn: [Adnan (Olamilekan) Is-haq](https://linkedin.com/in/adnan-is-haq-olamilekan)
-
-## Author 2
+- Twitter: [@AdnanIshaqOla](https://twitter.com/@adnanishaqola)
+- LinkedIn: [Adnan (Olamilekan) Is-haq ](https://www.linkedin.com/in/adnan-is-haq-olamilekan/)
 
 👤 **Recillah Neema Khamala**
 
@@ -118,26 +139,52 @@ npx eslint .
 - Twitter: [@recillahk](https://twitter.com/recillahk)
 - LinkedIn: [Recillah Khamala](https://www.linkedin.com/in/recillah-khamala-071151b7/)
 
-## Credits
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Project from [Microverse](https://bit.ly/MicroverseTN) React module
+## 🔭 Future Features <a name="future-features"></a>
 
-## Contributing
+- [ ] **Enable Search Feature**
+- [ ] **Implement Responsitivity**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AdnanOlarmmi/Math-Magicians/issues).
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project and how we manage to build it!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project please give it a Start ⭐️.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
 - A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 - Hat tip to anyone whose code was used.
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./LICENSE) licensed
+## ❓ FAQ <a name="faq"></a>
+
+- **Can I fork and reuse the repository**
+
+  - Yes please, feel free.
+
+- **Can I improve the repository, and my changes will be accepted if they are good?**
+
+  - Yes please, nice ideas are welcome, please.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./License) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
