@@ -57,7 +57,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Experince a live demo](https://adnanclimateapp.netlify.app/).
+- [Experince a live demo](https://adnancalculator.netlify.app/).
 
 > |     | Mobile version                      | Desktop version                      |     |
 > | --- | ----------------------------------- | ------------------------------------ | --- |
